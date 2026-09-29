@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"oButton_tutorial",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"oButton_tutorial",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oButton_parent","path":"objects/oButton_parent/oButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/oButton_parent/oButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Tutorial",},
+  ],
+  "parent":{
+    "name":"Objects main menu",
+    "path":"folders/Objects/Objects main menu.yy",
+  },
+  "parentObjectId":{
+    "name":"oButton_parent",
+    "path":"objects/oButton_parent/oButton_parent.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"sButton",
+    "path":"sprites/sButton/sButton.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}

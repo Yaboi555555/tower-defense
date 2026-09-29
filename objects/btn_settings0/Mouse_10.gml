@@ -1,0 +1,2 @@
+// highlight enable
+highlight = true;

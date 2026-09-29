@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"extraatjes",
+  "name":"extraatjes",
+  "parent":{
+    "name":"tower-defense",
+    "path":"tower-defense.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

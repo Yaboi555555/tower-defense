@@ -1,0 +1,9 @@
+Unused elements:
+-Split enemy: Hoort na dood te "splitten" in twee kleinere enemies > werkte niet
+-Magic tower: Hoort enemies slomer te maken						   > werkte niet
+-spr_car														   > placeholder
+-"Difficulty" instelling in de settings room: 
+			hoort met een left of right click difficulty veranderen> werkte niet
+-con_level>step event> automatische room switcher na 50 waves	   > vervangen door een handmatige knop naast de settings knop
+
+p.s. geheim detail t/m wave 250
